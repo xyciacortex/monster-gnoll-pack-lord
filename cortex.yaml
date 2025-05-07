@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-gnoll-pack-lord
+  x-cortex-tag: monster-gnoll-pack-lord
+x-cortex-custom-data:
+  alignment: chaotic-evil
+  challenge_rating: 2
+  legendary: false
+  source: dnd-5e
+  type: humanoid
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-gnoll-pack-lord
+x-cortex-type: monster
